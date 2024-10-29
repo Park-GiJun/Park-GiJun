@@ -23,9 +23,6 @@
 
 ---
 
-### 🌟 Contributions
-![Contributors](https://contrib.rocks/image?repo=Park-GiJun/YourRepoName)
-
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Park-GiJun&theme=radical)
 
