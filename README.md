@@ -39,7 +39,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Park-GiJun&color=blue)
 
 ### ⏳ WakaTime Stats
-![WakaTime](https://wakatime.com/badge/user/Park-GiJun.svg)
+![WakaTime](https://wakatime.com/badge/user/GijunPark.svg)
 
 ---
 
