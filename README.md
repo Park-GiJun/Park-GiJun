@@ -13,11 +13,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Park-GiJun/&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun/&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=radical)
 
 ### 🔗 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=Park-GiJun/&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Park-GiJun&color=blue)
 
 ---
 
