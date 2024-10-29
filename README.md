@@ -29,17 +29,6 @@
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Park-GiJun&theme=radical)
 
-### 🗺️ GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Park-GiJun&theme=react-dark)
-
-### 📦 Repositories
-![Repositories](https://img.shields.io/badge/Repositories-5-blue)
-
-### 🔗 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=Park-GiJun&color=blue)
-
-### ⏳ WakaTime Stats
-![WakaTime](https://wakatime.com/badge/user/GijunPark.svg)
 
 ---
 
