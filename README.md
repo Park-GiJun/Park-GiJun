@@ -23,8 +23,8 @@
 
 ### 📊 WakaTime Stats
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GijunPark&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="WakaTime Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GijunPark&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="WakaTime Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GijunPark&api_key=waka_e1c5461f-6b16-4c99-8f81-c75d7b6fc570&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="WakaTime Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GijunPark&api_key=waka_e1c5461f-6b16-4c99-8f81-c75d7b6fc570&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="WakaTime Top Languages" width="48%" />
 </div>
 
 ### 🏆 Achievements
