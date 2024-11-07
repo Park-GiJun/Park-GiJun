@@ -15,15 +15,20 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </div>
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
-### 🔥 Streak Stats
+### 📈 Activity Graph
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Park-GiJun&theme=radical" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Park-GiJun&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Park-GiJun&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ### 🌟 Contribution Map
