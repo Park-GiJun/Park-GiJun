@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GijunPark
+# 👋 Hi, I'm Park-GiJun
 
 ### 📝 About Me
 - 🎂 **Date of Birth**: March 20, 1998
@@ -17,29 +17,29 @@
 
 ### 📊 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GijunPark&show_icons=true&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GijunPark&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="Top Languages" width="48%" />
 </div>
 
 ### 📊 Most Used Languages
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GijunPark&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="Most Used Languages" width="48%" />
 </div>
 
 ### 📊 WakaTime Stats
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GijunPark&api_key=waka_e1c5461f-6b16-4c99-8f81-c75d7b6fc570&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="WakaTime Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GijunPark&api_key=waka_e1c5461f-6b16-4c99-8f81-c75d7b6fc570&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="WakaTime Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Park-GiJun&api_key=waka_e1c5461f-6b16-4c99-8f81-c75d7b6fc570&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="WakaTime Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Park-GiJun&api_key=waka_e1c5461f-6b16-4c99-8f81-c75d7b6fc570&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="WakaTime Top Languages" width="48%" />
 </div>
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GijunPark&theme=default&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Park-GiJun&theme=default&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ### 🌟 Contribution Map
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GijunPark&theme=default" alt="Contribution Map" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Park-GiJun&theme=default" alt="Contribution Map" />
 </p>
 
 ### 🌐 Links
@@ -48,7 +48,7 @@
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GijunPark&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Park-GiJun&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
 </p>
 
 ### 📫 Contact Me
