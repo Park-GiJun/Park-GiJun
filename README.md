@@ -16,19 +16,19 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true&theme=default&hide_border=true&text_color=808080&title_color=000000&icon_color=000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=default&hide_border=true&text_color=808080&title_color=000000" alt="Top Languages" width="48%" />
+</div>
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Park-GiJun&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Park-GiJun&theme=default&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ### 🌟 Contribution Map
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Park-GiJun&theme=radical" alt="Contribution Map" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Park-GiJun&theme=default" alt="Contribution Map" />
 </p>
 
 ### 🌐 Links
