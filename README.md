@@ -1,5 +1,3 @@
-# 👋 안녕하세요, 저는 박기준입니다!
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Park-GiJun&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
 </div>
