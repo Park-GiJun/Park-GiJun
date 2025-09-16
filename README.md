@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Park-GiJun&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
 </div>
+<div align="center">
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
+</div>
 
 ### 📝 소개
 - 🎂 **생년월일**: 1998년 3월 20일
