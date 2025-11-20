@@ -39,6 +39,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="http://210.121.177.150:9832/swagger-ui/index.html">
+    <img src="https://img.shields.io/badge/API_문서-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  </a>
+</div>
+
 ---
 
 ## GitHub 통계
@@ -99,4 +105,5 @@
 ## 링크
 
 **포트폴리오:** [gijun.net](https://gijun.net)  
+**API 문서:** [Swagger UI](http://210.121.177.150:9832/swagger-ui/index.html)  
 **이메일:** tpgj98@naver.com
