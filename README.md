@@ -100,9 +100,3 @@
 
 **포트폴리오:** [gijun.net](https://gijun.net)  
 **이메일:** tpgj98@naver.com
-
----
-
-<div align="center">
-  <sub>마지막 업데이트: 2024</sub>
-</div>
