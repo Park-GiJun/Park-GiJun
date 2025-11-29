@@ -50,7 +50,7 @@
 ## GitHub 통계
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=default&hide_border=true&langs_count=8" />
 </div>
 
