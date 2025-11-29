@@ -53,7 +53,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Park-GiJun&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-GiJun&layout=compact&theme=default&hide_border=true&langs_count=8" />
 </div>
-[Park-GiJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-GiJun&show_icons=true)
 
 ---
 
