@@ -2,6 +2,9 @@
   <h1>박기준</h1>
   <p>백엔드 개발자</p>
 </div>
+<div align="center">
+  [![wakatime](https://wakatime.com/badge/user/018badd4-cf7b-462e-b4fa-4f2381a155a8.svg)](https://wakatime.com/@018badd4-cf7b-462e-b4fa-4f2381a155a8)
+</div>
 
 ---
 
