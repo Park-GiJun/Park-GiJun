@@ -37,13 +37,13 @@
 ## 진행 중인 프로젝트
 
 <div align="center">
-  <a href="https://github.com/Park-GiJun/kotlin-e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Park-GiJun&repo=kotlin-e-commerce&theme=default&hide_border=true" />
+  <a href="https://github.com/Park-GiJun/Stock-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Park-GiJun&repo=Stock-Simulato&theme=default&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="http://210.121.177.150:9832/swagger-ui/index.html">
+  <a href="https://api.gijun.net/swagger-ui/index.html">
     <img src="https://img.shields.io/badge/API_문서-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   </a>
 </div>
@@ -88,7 +88,7 @@
 ## 현재 집중하고 있는 것
 
 - 스프링 부트와 JPA 학습
-- Kotlin 기반 이커머스 프로젝트 개발
+- Kotlin 기반 프로젝트 개발
 - 백엔드 개발 역량 향상
 - 새로운 기술 스택 탐구
 
@@ -108,5 +108,5 @@
 ## 링크
 
 **포트폴리오:** [gijun.net](https://gijun.net)  
-**API 문서:** [Swagger UI](http://210.121.177.150:9832/swagger-ui/index.html)  
+**API 문서:** [Swagger UI](https://api.gijun.net/swagger-ui/index.html)  
 **이메일:** tpgj98@naver.com
