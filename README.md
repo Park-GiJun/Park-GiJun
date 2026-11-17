@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+  <img src="assets/banner-light.png" alt="서버 상자와 심박선이 이어진 그림" width="100%" />
+</picture>
+
 <div align="center">
   <h1>박기준</h1>
   <p>백엔드 개발자 · Kotlin · Spring Boot · MSA</p>
@@ -10,6 +15,8 @@
 
 아스템즈에서 백엔드를 만듭니다(2024.01 ~). 퇴근하고는 홈서버에 올린 개인 프로젝트를 굴립니다.
 아래 카드는 그 홈서버가 작업 기록과 커밋을 모아 직접 그린 것이라 **지금 하고 있는 일**이 그대로 보입니다.
+
+<img src="assets/desk.png" alt="미니 서버와 차트를 띄운 모니터가 놓인 책상 그림" width="100%" />
 
 ## 지금 진행 중
 
@@ -71,4 +78,4 @@ GitHub 잔디에 잡히지 않는 비공개 · 개인 Git 서버 커밋까지 �
 | 데이터 | PostgreSQL · Oracle · MySQL · Redis · Kafka |
 | 운영 | Docker · Jenkins · Grafana · Prometheus · Loki |
 
-<sub>항해 플러스 백엔드 수료 · 카드는 <code>lab-server</code> 가 10분마다 새로 그립니다. 회사 업무는 이름 없이 시간만 합쳐 보여 줍니다.</sub>
+<sub>그림은 홈서버 옆 LLM 장비의 FLUX 로 그렸습니다 · 항해 플러스 백엔드 수료 · 카드는 <code>lab-server</code> 가 10분마다 새로 그립니다. 회사 업무는 이름 없이 시간만 합쳐 보여 줍니다.</sub>
